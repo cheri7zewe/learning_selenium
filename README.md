@@ -1,0 +1,1 @@
+I created this repo just to store some small projects for learning how to use Selenium.
