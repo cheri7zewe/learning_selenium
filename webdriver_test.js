@@ -1,7 +1,7 @@
 @Test
 public void testGoogleSearch() {
   
-  System.setProperty("webdriver.chrome.driver", "/path/to/chromedriver");
+  System.setProperty("webdriver.chrome.driver", "/C/Users/MInedMinds/Documents");
 
   WebDriver driver = new ChromeDriver();
   driver.get("http://www.google.com/xhtml");
